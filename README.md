@@ -20,7 +20,7 @@ Estas propiedades aseguran que las operaciones de búsqueda se puedan realizar e
 
 1. Clonar el repositorio.
  ```
-[https://github.com/cristiandavid0124/AREM_Lab5.git](https://github.com/cristiandavid0124/Taller-Binario-Arem.git)
+https://github.com/cristiandavid0124/Taller-Binario-Arem.git
   ```
 
 2. correr clase  main 
